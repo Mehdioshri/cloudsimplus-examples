@@ -8,7 +8,7 @@ import org.cloudsimplus.vms.Vm;
 import java.util.List;
 
 
-public class QLearningBroker extends DatacenterBrokerSimple {
+public class QlearningBroker extends DatacenterBrokerSimple {
 
 
     private final QLearningAgent agent;
